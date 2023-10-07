@@ -42,6 +42,9 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
   <a href="nikirathee24@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
+  <a href="https://nikita09rathee.github.io">
+    <img align="left" src="https://icons8.com/icon/53372/internet" width="32px"  />
+  </a>
  
   
   <a href="https://www.linkedin.com/in/nikita-rathee-6525081b9/">
